@@ -1,1 +1,3 @@
 I am still baffled by Git. It makes sense until I try to use it.
+
+The last merge worked! I think the keys are to commit changes in all branches, and then switch to the RECEIVING BRANCH before merging.
